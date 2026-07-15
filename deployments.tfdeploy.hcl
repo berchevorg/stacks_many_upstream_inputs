@@ -1,18 +1,5 @@
 deployment "number1" {
   inputs = { 
-    
-    #complex_maps_var = {
-    #  pet1 = {
-    #     length    = "2"
-    #     separator = "-"
-    #  } 
-
-    #  pet2 = {
-    #    length    = "2"
-    #    separator = "-"
-    #  }
-    #}
-
     #### Uncomment to consume the other stacks output #####
     many_pets_var = upstream_input.many_pets_var.many_pets_var
   }
