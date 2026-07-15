@@ -5,6 +5,12 @@ deployment "number1" {
   }
 }
 
+deployment "number2" {
+  inputs = { 
+    #### Uncomment to consume the other stacks output #####
+    many_pets_var = upstream_input.many_pets_var.many_pets_var
+  }
+}
 
 # deployment "simple2" {
 #   inputs = { 
