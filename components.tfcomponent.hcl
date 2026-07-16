@@ -228,41 +228,41 @@ component "pet" {
     length_pet10    = var.length_pet10
     separator_pet10 = var.separator_pet10
 
-    length_pet11    = var.length_pet11
-    separator_pet11 = var.separator_pet11
+    # length_pet11    = var.length_pet11
+    # separator_pet11 = var.separator_pet11
 
-    length_pet12    = var.length_pet12
-    separator_pet12 = var.separator_pet12
+    # length_pet12    = var.length_pet12
+    # separator_pet12 = var.separator_pet12
 
-    length_pet13    = var.length_pet13
-    separator_pet13 = var.separator_pet13
+    # length_pet13    = var.length_pet13
+    # separator_pet13 = var.separator_pet13
 
-    length_pet14    = var.length_pet14
-    separator_pet14 = var.separator_pet14
+    # length_pet14    = var.length_pet14
+    # separator_pet14 = var.separator_pet14
 
-    length_pet15    = var.length_pet15
-    separator_pet15 = var.separator_pet15
+    # length_pet15    = var.length_pet15
+    # separator_pet15 = var.separator_pet15
 
-    length_pet16    = var.length_pet16
-    separator_pet16 = var.separator_pet16
+    # length_pet16    = var.length_pet16
+    # separator_pet16 = var.separator_pet16
 
-    length_pet17    = var.length_pet17
-    separator_pet17 = var.separator_pet17
+    # length_pet17    = var.length_pet17
+    # separator_pet17 = var.separator_pet17
 
-    length_pet18    = var.length_pet18
-    separator_pet18 = var.separator_pet18
+    # length_pet18    = var.length_pet18
+    # separator_pet18 = var.separator_pet18
 
-    length_pet19    = var.length_pet19
-    separator_pet19 = var.separator_pet19
+    # length_pet19    = var.length_pet19
+    # separator_pet19 = var.separator_pet19
 
-    length_pet20    = var.length_pet20
-    separator_pet20 = var.separator_pet20
+    # length_pet20    = var.length_pet20
+    # separator_pet20 = var.separator_pet20
 
-    length_pet21    = var.length_pet21
-    separator_pet21 = var.separator_pet21
+    # length_pet21    = var.length_pet21
+    # separator_pet21 = var.separator_pet21
 
-    length_pet22    = var.length_pet22
-    separator_pet22 = var.separator_pet22
+    # length_pet22    = var.length_pet22
+    # separator_pet22 = var.separator_pet22
 
   }
 

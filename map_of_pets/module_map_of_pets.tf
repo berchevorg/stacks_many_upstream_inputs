@@ -59,41 +59,41 @@ variable "separator_pet9" {}
 variable "length_pet10" {}
 variable "separator_pet10" {}
 
-variable "length_pet11" {}
-variable "separator_pet11" {}
+# variable "length_pet11" {}
+# variable "separator_pet11" {}
 
-variable "length_pet12" {}
-variable "separator_pet12" {}
+# variable "length_pet12" {}
+# variable "separator_pet12" {}
 
-variable "length_pet13" {}
-variable "separator_pet13" {}
+# variable "length_pet13" {}
+# variable "separator_pet13" {}
 
-variable "length_pet14" {}
-variable "separator_pet14" {}
+# variable "length_pet14" {}
+# variable "separator_pet14" {}
 
-variable "length_pet15" {}
-variable "separator_pet15" {}
+# variable "length_pet15" {}
+# variable "separator_pet15" {}
 
-variable "length_pet16" {}
-variable "separator_pet16" {}
+# variable "length_pet16" {}
+# variable "separator_pet16" {}
 
-variable "length_pet17" {}
-variable "separator_pet17" {}
+# variable "length_pet17" {}
+# variable "separator_pet17" {}
 
-variable "length_pet18" {}
-variable "separator_pet18" {}
+# variable "length_pet18" {}
+# variable "separator_pet18" {}
 
-variable "length_pet19" {}
-variable "separator_pet19" {}
+# variable "length_pet19" {}
+# variable "separator_pet19" {}
 
-variable "length_pet20" {}
-variable "separator_pet20" {}
+# variable "length_pet20" {}
+# variable "separator_pet20" {}
 
-variable "length_pet21" {}
-variable "separator_pet21" {}
+# variable "length_pet21" {}
+# variable "separator_pet21" {}
 
-variable "length_pet22" {}
-variable "separator_pet22" {}
+# variable "length_pet22" {}
+# variable "separator_pet22" {}
 
 resource "random_pet" "pet1" {
   length    = var.length_pet1
@@ -145,62 +145,62 @@ resource "random_pet" "pet10" {
   separator = var.separator_pet10
 }
 
-resource "random_pet" "pet11" {
-  length    = var.length_pet11
-  separator = var.separator_pet11
-}
+# resource "random_pet" "pet11" {
+#   length    = var.length_pet11
+#   separator = var.separator_pet11
+# }
 
-resource "random_pet" "pet12" {
-  length    = var.length_pet12
-  separator = var.separator_pet12
-}
+# resource "random_pet" "pet12" {
+#   length    = var.length_pet12
+#   separator = var.separator_pet12
+# }
 
-resource "random_pet" "pet13" {
-  length    = var.length_pet13
-  separator = var.separator_pet13
-}
+# resource "random_pet" "pet13" {
+#   length    = var.length_pet13
+#   separator = var.separator_pet13
+# }
 
-resource "random_pet" "pet14" {
-  length    = var.length_pet14
-  separator = var.separator_pet14
-}
+# resource "random_pet" "pet14" {
+#   length    = var.length_pet14
+#   separator = var.separator_pet14
+# }
 
-resource "random_pet" "pet15" {
-  length    = var.length_pet15
-  separator = var.separator_pet15
-}
+# resource "random_pet" "pet15" {
+#   length    = var.length_pet15
+#   separator = var.separator_pet15
+# }
 
-resource "random_pet" "pet16" {
-  length    = var.length_pet16
-  separator = var.separator_pet16
-}
+# resource "random_pet" "pet16" {
+#   length    = var.length_pet16
+#   separator = var.separator_pet16
+# }
 
-resource "random_pet" "pet17" {
-  length    = var.length_pet17
-  separator = var.separator_pet17
-}
+# resource "random_pet" "pet17" {
+#   length    = var.length_pet17
+#   separator = var.separator_pet17
+# }
 
-resource "random_pet" "pet18" {
-  length    = var.length_pet18
-  separator = var.separator_pet18
-}
+# resource "random_pet" "pet18" {
+#   length    = var.length_pet18
+#   separator = var.separator_pet18
+# }
 
-resource "random_pet" "pet19" {
-  length    = var.length_pet19
-  separator = var.separator_pet19
-}
+# resource "random_pet" "pet19" {
+#   length    = var.length_pet19
+#   separator = var.separator_pet19
+# }
 
-resource "random_pet" "pet20" {
-  length    = var.length_pet20
-  separator = var.separator_pet20
-}
+# resource "random_pet" "pet20" {
+#   length    = var.length_pet20
+#   separator = var.separator_pet20
+# }
 
-resource "random_pet" "pet21" {
-  length    = var.length_pet21
-  separator = var.separator_pet21
-}
+# resource "random_pet" "pet21" {
+#   length    = var.length_pet21
+#   separator = var.separator_pet21
+# }
 
-resource "random_pet" "pet22" {
-  length    = var.length_pet22
-  separator = var.separator_pet22
-}
+# resource "random_pet" "pet22" {
+#   length    = var.length_pet22
+#   separator = var.separator_pet22
+# }
