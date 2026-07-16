@@ -84,7 +84,222 @@ deployment "number1" {
 
 
 #### Change the source based on the organization, project and stack name #######
-upstream_input "many_pets_var" {
+upstream_input "length_pet1" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet1" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet2" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet2" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet3" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet3" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet4" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet4" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet5" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet5" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet6" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet6" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet7" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet7" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet8" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet8" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet9" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet9" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet10" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet10" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet11" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet11" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet12" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet12" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet13" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet13" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet14" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet14" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet15" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet15" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet16" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet16" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet17" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet17" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet18" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet18" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet19" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet19" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet20" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet20" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet21" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet21" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "length_pet22" {
+  type   = "stack"
+  source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
+}
+
+upstream_input "separator_pet22" {
   type   = "stack"
   source = "app.terraform.io/georgi-berchev/Stacks-test/stacks_many_outputs"
 }
