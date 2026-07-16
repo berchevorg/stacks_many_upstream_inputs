@@ -93,101 +93,101 @@ variable "separator_pet10" {
   type = string
 }
 
-variable "length_pet11" {
-  type = string
-}
+# variable "length_pet11" {
+#   type = string
+# }
 
-variable "separator_pet11" {
-  type = string
-}
+# variable "separator_pet11" {
+#   type = string
+# }
 
-variable "length_pet12" {
-  type = string
-}
+# variable "length_pet12" {
+#   type = string
+# }
 
-variable "separator_pet12" {
-  type = string
-}
+# variable "separator_pet12" {
+#   type = string
+# }
 
-variable "length_pet13" {
-  type = string
-}
+# variable "length_pet13" {
+#   type = string
+# }
 
-variable "separator_pet13" {
-  type = string
-}
+# variable "separator_pet13" {
+#   type = string
+# }
 
-variable "length_pet14" {
-  type = string
-}
+# variable "length_pet14" {
+#   type = string
+# }
 
-variable "separator_pet14" {
-  type = string
-}
+# variable "separator_pet14" {
+#   type = string
+# }
 
-variable "length_pet15" {
-  type = string
-}
+# variable "length_pet15" {
+#   type = string
+# }
 
-variable "separator_pet15" {
-  type = string
-}
+# variable "separator_pet15" {
+#   type = string
+# }
 
-variable "length_pet16" {
-  type = string
-}
+# variable "length_pet16" {
+#   type = string
+# }
 
-variable "separator_pet16" {
-  type = string
-}
+# variable "separator_pet16" {
+#   type = string
+# }
 
-variable "length_pet17" {
-  type = string
-}
+# variable "length_pet17" {
+#   type = string
+# }
 
-variable "separator_pet17" {
-  type = string
-}
+# variable "separator_pet17" {
+#   type = string
+# }
 
-variable "length_pet18" {
-  type = string
-}
+# variable "length_pet18" {
+#   type = string
+# }
 
-variable "separator_pet18" {
-  type = string
-}
+# variable "separator_pet18" {
+#   type = string
+# }
 
-variable "length_pet19" {
-  type = string
-}
+# variable "length_pet19" {
+#   type = string
+# }
 
-variable "separator_pet19" {
-  type = string
-}
+# variable "separator_pet19" {
+#   type = string
+# }
 
-variable "length_pet20" {
-  type = string
-}
+# variable "length_pet20" {
+#   type = string
+# }
 
-variable "separator_pet20" {
-  type = string
-}
+# variable "separator_pet20" {
+#   type = string
+# }
 
-variable "length_pet21" {
-  type = string
-}
+# variable "length_pet21" {
+#   type = string
+# }
 
-variable "separator_pet21" {
-  type = string
-}
+# variable "separator_pet21" {
+#   type = string
+# }
 
-variable "length_pet22" {
-  type = string
-}
+# variable "length_pet22" {
+#   type = string
+# }
 
-variable "separator_pet22" {
-  type = string
-}
+# variable "separator_pet22" {
+#   type = string
+# }
 
 ##### PROVIDER #####
 provider "random" "this" {}
